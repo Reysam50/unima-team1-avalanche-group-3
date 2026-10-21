@@ -1,4 +1,4 @@
-# FundTrace
+# FundTrace Group 3
 
 ### Follow the money. Verify the impact.
 
